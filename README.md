@@ -1,10 +1,10 @@
 # tej-app-project
 
-Please read the instructions below for the **TEJ Fellowship application - project round**
+Please read the instructions below for the **TEJ Fellowship application - project**
 
 ### 1. WHAT TO SUBMIT
 
-Submit the files you create to complete the 3 levels of tasks outlined below - **LEVEL-1 Goal**, **LEVEL-2 Goal**, and **LEVEL-3 Goal**.
+Submit the files you create to complete the 3 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, and LEVEL-3 Goal_) outlined below in the 'PROJECT DETAILS' section.
 
 The goals do not have to be completed sequentially, e.g. you can start at **LEVEL-1 Goal**, then do **LEVEL-3 Goal** before completing **LEVEL-2 Goal**.
 
@@ -37,7 +37,9 @@ That's it! read the instructions below to complete the project. If you have any 
 
 ---
 
-## Please read and implement the goals below
+## PROJECT DETAILS
+
+### Please read and implement the goals below
 
 **LEVEL-1 Goal**:
 
@@ -65,3 +67,10 @@ That's it! read the instructions below to complete the project. If you have any 
 
 _note_: watch this video to see how the web page should behave
 [![Javascript functionality](images/LEVEL-3.png)](https://youtu.be/gNPgWRE-k0g)
+
+---
+
+### _Resources_
+
+- You can read [this article](https://rushilshakya.github.io/tej-curriculum-pre-bcp/what-is-webapp) for basic concepts on webapps
+- To create github pages, follow instructions at https://pages.github.com/ > choose 'Project site' > 'Start from scratch'
