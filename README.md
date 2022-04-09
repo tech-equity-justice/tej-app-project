@@ -41,20 +41,20 @@ That's it! read the instructions below to complete the project. If you have any 
 
 **LEVEL-1 Goal**:
 
-> 1. create an **_index.html_** file.
+> 1. Create an **_index.html_** file in the root directory for the project
 > 2. Then put html tags in the index.html to make it look like this
 >    ![Level 1](images/LEVEL-1.png)
 
 **LEVEL-2 Goal**:
 
-> 1. Create a **_styles.css_** file in a folder named 'css'.
+> 1. Create a **_styles.css_** file in a folder named 'css'
 > 2. Include a reference from index.html to styles.css so that css styles from styles.css will apply to elements in index.html
 > 3. In the styles.css file add styles to make the index.html page look like this
 >    ![Level 2](images/LEVEL-2.png)
 
 **LEVEL-3 Goal**:
 
-> 1. Create a **_scripts.js_** file in a folder named 'js'.
+> 1. Create a **_scripts.js_** file in a folder named 'js'
 > 2. Inclue a reference from index.html to scripts.js so that any javascript code in scripts.js can access the elements in index.html
 > 3. In the scripts.js file, add 3 functionalities
 >    1. add code so that an alert box with the message "Hello TEJ!" is displayed when index.html page is loaded
