@@ -18,7 +18,7 @@ You have time from Monday, April 11 morning till Sunday, April 17 night to submi
 
 ### 3. HOW TO SUBMIT
 
-You can submit your code using one of the two below methods
+You can submit your code using one of these two methods
 
 a. Submit as a public github repository (this is the preferred way)
 
