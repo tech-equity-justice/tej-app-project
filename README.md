@@ -72,6 +72,8 @@ _note_: watch this video to see how the web page should behave
 
 ### _Resources_
 
+Here are a few resources you can read to help with the project
+
 - You can read [this article](https://rushilshakya.github.io/tej-curriculum-pre-bcp/what-is-webapp) for basic concepts on webapps
 - To create github pages, follow instructions at https://pages.github.com/ > choose 'Project site' > 'Start from scratch'
   <img width="1004" alt="image" src="images/github-pages.png">
