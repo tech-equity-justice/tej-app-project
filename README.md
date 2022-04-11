@@ -18,20 +18,22 @@ You have time from Monday, April 11 morning till Sunday, April 17 night to submi
 
 ### 3. HOW TO SUBMIT
 
-You can submit your code using one of these two methods
+1. **Prepare your submission** - Once you have completed your project, you can submit your code using one of the following two methods:
 
-a. Submit as a public github repository (this is the preferred way)
+   a. Submit as a public github repository (this is the preferred way)
 
-- create a git repository called tej-fellowship
-- checkin all your code to the repository
-- create a github account (if you don't have one)
-- push your repository as a public repository to your github account
-- **_BONUS_**: use github pages to host the pages from this github repository
+   - create a git repository called tej-fellowship
+   - checkin all your code to the repository
+   - create a github account (if you don't have one)
+   - push your repository as a public repository to your github account
+   - **_BONUS_**: use github pages to host the pages from this github repository
 
-b. Submit as a zip file
+   b. Submit as a zip file
 
-- zip the folder with your project
-- email it to tej.fellowship@gmail.com
+   - zip the folder with your project
+   - name the zip file as: tej-fellowship-_your-full-name_.zip (e.g. if your name is _Tenzin Nepal_, then filename will be tej-fellowship-tenzin-nepal.zip)
+
+2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/EnW9wMkwnwMXDC7i7
 
 That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship application project question".
 
