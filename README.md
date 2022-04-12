@@ -4,7 +4,10 @@ Please read the instructions below for the **TEJ Fellowship application - projec
 
 ### 1. WHAT TO SUBMIT
 
-Submit the files you create to complete the 3 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, and LEVEL-3 Goal_) outlined below in the [PROJECT DETAILS](#project-details) section.
+Complete the 3 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, and LEVEL-3 Goal_) outlined below in the [PROJECT DETAILS](#project-details) section. Once you have completed level 1, keep working on the same code to do level 2 work, and then continue with level 3 on the same code. Only submit the latest code you have worked on. For example:
+
+- if you have successfully completed level 1, 2, and 3, then only submit code for level 3.
+- if you ave successfully completed level 1 and 2. And you have done some work on level 3, then still only submit code for level 3.
 
 The goals do not have to be completed sequentially, e.g. you can start at **LEVEL-1 Goal**, then do **LEVEL-3 Goal** before completing **LEVEL-2 Goal**.
 
