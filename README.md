@@ -1,6 +1,6 @@
-# Tej Round 2 Project
+# Tej Fellowship Appliction Round 2 Project
 
-Please read the instructions below for the **TEJ Fellowship application - project**
+Please read the instructions below for the **TEJ Fellowship application - round 2 project**
 
 ### 1. WHAT TO SUBMIT
 
@@ -63,9 +63,9 @@ That's it! read the instructions below to complete the project. If you have any 
 
 > 1. Create a **_scripts.js_** file in a folder named 'js'
 > 2. Inclue a reference from index.html to scripts.js so that any javascript code in scripts.js can access the elements in index.html
-> 3. In the scripts.js file, add 3 functionalities
+> 3. In the scripts.js file, add the below 4 functionalities
 >    1. add code so that an alert box with the message "Hello TEJ!" is displayed when index.html page is loaded
->    2. add code to add `Price` as a number to the input box next to the `Price` label in both `Samosa` and `Tea` sections
+>    2. add code to input `Price` as a number to the input box next to the `Price` label in both `Samosa` and `Tea` sections
 >    3. add code so that when
 >    - the '+' button is clicked, the value in the "Quantity" box is incremented by 1 in the corresponding section (e.g. '+' button in `Samosa` section should increment the quantity under the `Samosa` section, and '-' button in `Tea` section should increment the quantity under the `Tea` section)
 >    - the '-' button is clicked, the value in the "Quantity" box is decreased by 1 in the corresponding section
@@ -78,7 +78,7 @@ That's it! read the instructions below to complete the project. If you have any 
 >    - the `Grand total` field is populated by adding `Total price`, `Vat (13%)`, and `Tip (10%)`. E.g. if `Total price` is `250`, `Vat (13%)` is `32.5`, and `Tip (10%)` is `25`, then `Grand total` should be `307.5`
 
 _note_: watch this video to see how the web page should behave
-[![Javascript functionality](images/LEVEL-3.png)](https://youtu.be/gNPgWRE-k0g)
+[![Javascript functionality](images/LEVEL-3.png)](https://youtu.be/B2DyIna0QzA)
 
 ---
 
