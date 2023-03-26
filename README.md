@@ -78,7 +78,7 @@ That's it! read the instructions below to complete the project. If you have any 
 >    - the `Grand total` field is populated by adding `Total price`, `Vat (13%)`, and `Tip (10%)`. E.g. if `Total price` is `250`, `Vat (13%)` is `32.5`, and `Tip (10%)` is `25`, then `Grand total` should be `307.5`
 
 _note_: watch this video to see how the web page should behave
-[![Javascript functionality](images/LEVEL-3.png)](https://youtu.be/B2DyIna0QzA)
+[![Javascript functionality](images/202305-level3.png)](https://youtu.be/B2DyIna0QzA)
 
 ---
 
