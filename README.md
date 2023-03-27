@@ -1,6 +1,23 @@
-# Tej Fellowship Appliction Round 2 Project
+# Tej Fellowship Application Round 2 Project
 
 Please read the instructions below for the **TEJ Fellowship application - round 2 project**
+
+### CODE OF CONDUCT
+
+- Your application will be **automatically disqualified** if it is suspected that
+  - you have copied somebody else's code
+  - you allowed somebody else to copy your code
+  - somebody else did all or part of your project
+- It is ok to learn required coding concepts from another person, but it is **not ok for somebody else to directly do any part of the project** for you
+- Few examples of what you can ask a friend:
+  - how to read values from the input field using javascript
+  - how to write css for background color
+  - how to write javascript code to put values into html file
+  - how to write a function
+  - how to include css file to an html file
+- You can use any online reference for help with the project. But you need to understand and be able to explain what the code is doing line by line, and also be able to make requested modifications to your submitted code if asked during live interview session
+
+---
 
 ### 1. WHAT TO SUBMIT
 
@@ -12,8 +29,6 @@ Complete the 3 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, and LEVEL-3 Goal_) 
 The goals do not have to be completed sequentially, e.g. you can start at **LEVEL-1 Goal**, then do **LEVEL-3 Goal** before completing **LEVEL-2 Goal**.
 
 Please submit the project once you have completed up to whichever goals you are able to achieve.
-
-You can use any online reference for help with the project. But you need to understand and be able to explain what the code is doing line by line, and also be able to make requested modifications to your submitted code if asked during live interview session.
 
 ### 2. WHEN TO SUBMIT
 
