@@ -17,7 +17,7 @@ You can use any online reference for help with the project. But you need to unde
 
 ### 2. WHEN TO SUBMIT
 
-You have time from Monday, March 27 2023 morning till Sunday, April 2 2023 night to submit this project.
+You have time from Monday, March 27 2023 till Monday, April 3 2023 9pm Nepal time to submit this project.
 
 ### 3. HOW TO SUBMIT
 
