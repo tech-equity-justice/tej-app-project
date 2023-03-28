@@ -9,12 +9,15 @@ Please read the instructions below for the **TEJ Fellowship application - round 
   - you allowed somebody else to copy your code
   - somebody else did all or part of your project
 - It is ok to learn required coding concepts from another person, but it is **not ok for somebody else to directly do any part of the project** for you
-- Few examples of what you can ask a friend:
+- Few examples of what you can ask a friend, (or google, or chatGPT):
   - how to read values from the input field using javascript
   - how to write css for background color
-  - how to write javascript code to put values into html file
+  - how to write javascript code to put values into html page
   - how to write a function
   - how to include css file to an html file
+  - how to use git
+  - how to use gitHub
+  - how to create gitHub pages
 - You can use any online reference for help with the project. But you need to understand and be able to explain what the code is doing line by line, and also be able to make requested modifications to your submitted code if asked during live interview session
 
 ---
