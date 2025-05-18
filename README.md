@@ -35,7 +35,7 @@ Please submit the project once you have completed up to whichever goals you are 
 
 ### 2. WHEN TO SUBMIT
 
-You have time from Monday, March 27 2023 till Monday, April 3 2023 9pm Nepal time to submit this project.
+You have time from Monday, May 19 2025 till Monday, May 26 2025 9pm Nepal time to submit this project.
 
 ### 3. HOW TO SUBMIT
 
@@ -47,16 +47,17 @@ You have time from Monday, March 27 2023 till Monday, April 3 2023 9pm Nepal tim
    - checkin all your code to the repository
    - create a github account (if you don't have one)
    - push your repository as a public repository to your github account. e.g. if your github userid is `mrai`, then the github url for the repo will be: https://github.com/mrai/meera-rai
-   - **_BONUS_**: use github pages to host the pages from this github repository
+   - **_BONUS_**: use github pages to host the pages from this github repository (instructions below under [RESOURCES](#resources))
+   - **_DOUBLE BONUS_**: if you get to **LEVEL-4** and above, use any service to deploy your server. For Node.js, [render](https://render.com/) is one option (instructions below under [RESOURCES](#resources))
 
-   b. Submit as a zip file
+   b. Submit as a zip file (this is the alternate way)
 
    - zip the folder with your project
    - name the zip file as: tej-fellowship-_your-full-name_.zip (e.g. if your name is _Tenzin Nepal_, then filename will be tej-fellowship-tenzin-nepal.zip)
 
-2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/VULJZEYT5YAaRTEN6
+2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/JegyympE236qb81U7
 
-That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship application project question 202305".
+That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship application project question 202507".
 
 ---
 
@@ -95,15 +96,30 @@ That's it! read the instructions below to complete the project. If you have any 
 >    - the `Tip (10%)` field is populated by calculating 10% of `Total price`. E.g. if `Total price` is `250`, then `Tip (10%)` should be `25` which is equal to 250 x 0.1
 >    - the `Grand total` field is populated by adding `Total price`, `Vat (13%)`, and `Tip (10%)`. E.g. if `Total price` is `250`, `Vat (13%)` is `32.5`, and `Tip (10%)` is `25`, then `Grand total` should be `307.5`
 
-_note_: watch this video to see how the web page should behave
+_note_: watch this video to see how the web page should behave up to **LEVEL-3**
 [![Javascript functionality](images/202305-level3.png)](https://youtu.be/B2DyIna0QzA)
+
+**LEVEL-4 Goal**:
+
+> 1. Add a **Submit bill** button to the html page
+> 2. When the button is clicked, submit the grand total data to a backend server. You can build the backend server in any language of your choice, e.g. JavaScript, PHP, Python etc. The server needs to save the data, along with the submitted time. The server can respond with the saved data
+> 3. When the api url such as `/api/bills` is accessed, respond with all the saved data
+> 4. When the server url `/bills` is accessed, respond with an html page with all the saved data put in a table
+
+_note_: watch this video to see how the web page should behave up to **LEVEL-4**
+[![Server functionality](images/202507-level4.png)](https://youtu.be/8OPOUWgEyno)
+
+**LEVEL-5 Goal**:
+
+> Up to you! You can add any other features, functionalities etc.
 
 ---
 
-### _Resources_
+## RESOURCES
 
 Here are a few resources you can read to help with the project
 
 - You can read [this article](https://rushilshakya.github.io/tej-curriculum-pre-bcp/what-is-webapp) for basic concepts on webapps
 - To create github pages, follow instructions at https://pages.github.com/ > choose 'Project site' > 'Start from scratch'
   <img width="1004" alt="image" src="images/github-pages.png">
+- To deploy to [render](https://render.com/), watch this tutorial - https://youtu.be/tNpoc86cHrQ
