@@ -24,12 +24,12 @@ Please read the instructions below for the **TEJ Fellowship application - round 
 
 ### 1. WHAT TO SUBMIT
 
-Complete the 3 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, and LEVEL-3 Goal_) outlined below in the [PROJECT DETAILS](#project-details) section. Once you have completed level 1, keep working on the same code to do level 2 work, and then continue with level 3 on the same code. Only submit the latest code you have worked on. For example:
+Complete up to 5 levels of tasks (_LEVEL-1 Goal, LEVEL-2 Goal, LEVEL-3 Goal, LEVEL-4 Goal, LEVEL-5 Goal_) outlined below in the [PROJECT DETAILS](#project-details) section. Once you have completed level 1, keep working on the same code to do level 2 work, and then continue with level 3, then level 4 and 5 (if you can) on the same code. Only submit the latest code you have worked on. For example:
 
 - if you have successfully completed level 1, 2, and 3, then only submit code for level 3.
 - if you have successfully completed level 1 and 2. And you have done some work on level 3, then still only submit code for level 3.
 
-The goals do not have to be completed sequentially, e.g. you can start at **LEVEL-1 Goal**, then do **LEVEL-3 Goal** before completing **LEVEL-2 Goal**.
+The goals do not have to be completed sequentially, e.g. you can start at **LEVEL-1 Goal**, then do **LEVEL-3 Goal** before completing **LEVEL-2 Goal**, and maybe add some **LEVEL-5** items.
 
 Please submit the project once you have completed up to whichever goals you are able to achieve.
 
