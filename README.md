@@ -81,7 +81,7 @@ That's it! read the instructions below to complete the project. If you have any 
 **LEVEL-3 Goal**:
 
 > 1. Create a **_scripts.js_** file in a folder named 'js'
-> 2. Inclue a reference from index.html to scripts.js so that any javascript code in scripts.js can access the elements in index.html
+> 2. Incldue a reference from index.html to scripts.js so that any javascript code in scripts.js can access the elements in index.html
 > 3. In the scripts.js file, add the below 4 functionalities
 >    1. add code so that an alert box with the message "Hello TEJ!" is displayed when index.html page is loaded
 >    2. add code to input `Price` as a number to the input box next to the `Price` label in both `Samosa` and `Tea` sections
