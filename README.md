@@ -35,30 +35,28 @@ Please submit the project once you have completed up to whichever goals you are 
 
 ### 2. WHEN TO SUBMIT
 
-You have time from Monday, May 19 2025 till Monday, May 26 2025 9pm Nepal time to submit this project.
+You have time from Sunday, March 8 2026 till Sunday, March 15 2026 9pm Nepal time to submit this project.
 
 ### 3. HOW TO SUBMIT
 
 1. **Prepare your submission** - Once you have completed your project, you can submit your code using one of the following two methods:
 
    a. Submit as a private github repository (this is the preferred way)
-
    - create a git repository as _firstname-lastname_; for example, if your name is `meera rai`, then the git repository name should be `meera-rai`. It can also be a variation such as `meera-rai-1`
    - checkin all your code to the repository
    - create a github account (if you don't have one)
    - push your repository as a private repository to your github account. e.g. if your github userid is `mrai`, then the github url for the repo will be: https://github.com/mrai/meera-rai
-   - add [su-de-sh](https://github.com/su-de-sh) as collaborator to this private repository. Follow instructions here on [adding collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+   - add [rushilshakya](https://github.com/rushilshakya) as collaborator to this private repository. Follow instructions here on [adding collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
    - **_BONUS_**: use github pages to host the pages from this github repository (instructions below under [RESOURCES](#resources))
    - **_DOUBLE BONUS_**: if you get to **LEVEL-4** and above, use any service to deploy your server. For Node.js, [render](https://render.com/) is one option (instructions below under [RESOURCES](#resources))
 
    b. Submit as a zip file (this is the alternate way)
-
    - zip the folder with your project
-   - name the zip file as: tej-fellowship-_your-full-name_.zip (e.g. if your name is _Tenzin Nepal_, then filename will be tej-fellowship-tenzin-nepal.zip)
+   - name the zip file as: tej-fellowship-gps-_your-full-name_.zip (e.g. if your name is _Tenzin Nepal_, then filename will be tej-fellowship-gps-tenzin-nepal.zip)
 
-2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/JegyympE236qb81U7
+2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/tQyfCiApDEPNd9Sw6
 
-That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship application project question 202507".
+That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship Round-2 question 202604-GPS".
 
 ---
 
