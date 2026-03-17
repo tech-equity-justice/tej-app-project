@@ -35,7 +35,7 @@ Please submit the project once you have completed up to whichever goals you are 
 
 ### 2. WHEN TO SUBMIT
 
-You have time from Sunday, March 8 2026 till Sunday, March 15 2026 9pm Nepal time to submit this project.
+You have 1 week from the time you receive the email for Round 2 to submit this project. The deadline will be mentioned in the email
 
 ### 3. HOW TO SUBMIT
 
@@ -54,9 +54,9 @@ You have time from Sunday, March 8 2026 till Sunday, March 15 2026 9pm Nepal tim
    - zip the folder with your project
    - name the zip file as: tej-fellowship-gps-_your-full-name_.zip (e.g. if your name is _Tenzin Nepal_, then filename will be tej-fellowship-gps-tenzin-nepal.zip)
 
-2. **Submit it!** - Fill out this google form with the details of your submission: https://forms.gle/tQyfCiApDEPNd9Sw6
+2. **Submit it!** - Fill out the google form with the details of your submission. The link to the google form will be in the Round 2 email.
 
-That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at tej.fellowship@gmail.com with the subject "TEJ Fellowship Round-2 question 202604-GPS".
+That's it! read the instructions below to complete the project. If you have any questions on the process, please email us at fellowship@tejcenter.org with the subject "TEJ Fellowship Round-2 question".
 
 ---
 
